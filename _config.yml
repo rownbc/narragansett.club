@@ -1,4 +1,14 @@
-github: [metadata]
+title: Narragansett Boat Club
+author: GitHub User
+email: admin@narragansett.club
+description: Narragansett Boat Club is a rowing club located in Providence on the Seekonk River.
+
+twitter_username: rownbc
+github_username:  rownbc
+facebook_username: rownbc
+youtube_username: rownbc
+
+repository: rownbc/narragansett.club
 encoding: UTF-8
 kramdown:
   input: GFM
